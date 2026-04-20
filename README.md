@@ -1,6 +1,6 @@
 # 🎬 Motion Mantra Website
 
-🚀 **Live Demo:** https://your-website-link.com
+🚀 **Live Demo:** https://shreeharitech.github.io/Motion_mantra/
 
 A premium, cinematic, and modern single-page website for **Motion Mantra**, a video production and photography agency.
 
